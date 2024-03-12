@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Zomato Dataset Analysis Project is a Python-based exploration of the Zomato restaurant dataset. The project focuses on performing Exploratory Data Analysis (EDA) to uncover meaningful insights and trends within the dataset, with a strong emphasis on data visualization.
+The Zomato Dataset Analysis Project is a Python-based exploration of the Zomato restaurant dataset.In this EDA projects we will be performing zomato-bangalore-restaurants data analysis which is present on kaggle platform itself, we will be using multiple libraries in this project which will help us in analysing and visualizing our dataset. we will investigate a dataset that carries approximate facts about the restaurant chains in Bangalore that also run on Zomato. Hence by studying the Zomato dataset, you can get deeper insights into some of the influencing factors that improve the functioning of a restaurant in Bangalore.
 
 ## Features
 
@@ -12,9 +12,9 @@ The Zomato Dataset Analysis Project is a Python-based exploration of the Zomato 
 
 ## Insights and Learnings
 
-1. **Restaurant Distribution Across Cities:**
-   - Explore the distribution of restaurants across different cities.
-   - Identify cities with high and low restaurant density, providing insights into potential business opportunities or areas for expansion.
+1. **Restaurant Distribution in Bangalore:**
+   - Explore the distribution of restaurants in areas of Bangalore.
+   - Identify areas with high and low restaurant density, providing insights into potential business opportunities or areas for expansion.
 
 2. **Cuisine Preferences:**
    - Analyze the popularity of different cuisines among Zomato users.
