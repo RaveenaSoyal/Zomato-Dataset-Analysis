@@ -43,9 +43,6 @@ The Zomato Dataset Analysis Project is a Python-based exploration of the Zomato 
 ## Dataset
 The dataset used for this project is taken from Kaggle. This is a csv file.
 
-## Contributors
-Raveena Soyal
-
 ## Acknowledgments
 The dataset of Zomato was provided by Kaggle.
 The project was inspired by the curiosity to understand restaurant trends and user preferences.
